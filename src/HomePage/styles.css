@@ -1,0 +1,204 @@
+#home-page {
+  background-color: #ffffff;
+  width: 100%;
+  background-size: cover;
+}
+
+.cover-page-image {
+  height: 300px;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-image: linear-gradient(
+      180deg,
+      rgba(22, 22, 23, 0.8) 36%,
+      rgba(44, 43, 43, 0.8) 100%
+    ),
+    url("https://res.cloudinary.com/dnaarhl5b/image/upload/v1676048938/team_ozxhw4.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.cover-page-title {
+  transform: translate(150px, 100px);
+}
+
+span {
+  font-weight: 500;
+  font-size: 18px;
+}
+.who-we-are-container {
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.who-we-are-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h3 {
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.team-image {
+  height: 300px;
+  width: 100%;
+}
+
+.who-we-are-description {
+  color: black;
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+
+.where-we-started-container {
+  height: 90px;
+  background-color: #ad2673;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 5px;
+}
+
+.where-we-started-nav-description {
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.meeting-image {
+  height: 150px;
+  width: 200px;
+  border-radius: 9px;
+}
+
+.white-description {
+  color: #ffffff;
+  font-size: 14px;
+}
+
+.where-we-started-content-container {
+  background-color: #e7ebea;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.where-we-started-content {
+  margin-left: 150px;
+  margin-right: 150px;
+  padding-top: 50px;
+  padding-bottom: 70px;
+}
+
+.where-we-started-heading {
+  color: black;
+  align-self: center;
+}
+
+.where-we-started-cards {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.where-we-started-card1 {
+  height: 200px;
+  width: 170px;
+  margin-right: 10px;
+  background: transparent linear-gradient(360deg, #ffffff00 0%, #ffffff 100%) 0%
+    0% no-repeat padding-box;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top: 25px solid #2d2e82;
+}
+
+.where-we-started-card2 {
+  height: 200px;
+  width: 170px;
+  margin-right: 10px;
+  background: transparent linear-gradient(180deg, #ffffff00 0%, #ffffff 100%) 0%
+    0% no-repeat padding-box;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom: 25px solid #932557;
+}
+
+.where-we-started-card3 {
+  height: 200px;
+  width: 170px;
+  margin-right: 10px;
+  background: transparent linear-gradient(360deg, #ffffff00 0%, #ffffff 100%) 0%
+    0% no-repeat padding-box;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top: 25px solid #e94e1d;
+}
+
+.where-we-started-card4 {
+  height: 200px;
+  width: 170px;
+  margin-right: 10px;
+  background: transparent linear-gradient(180deg, #ffffff00 0%, #ffffff 100%) 0%
+    0% no-repeat padding-box;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom: 25px solid #175937;
+}
+
+.where-we-started-card5 {
+  height: 200px;
+  width: 170px;
+  margin-right: 10px;
+  background: transparent linear-gradient(360deg, #ffffff00 0%, #ffffff 100%) 0%
+    0% no-repeat padding-box;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top: 25px solid #b67e36;
+}
+
+.number1 {
+  height: 40px;
+  width: 40px;
+  background-color: #e7ebea;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: translate(53px, -45px);
+}
+
+.number2 {
+  height: 40px;
+  width: 40px;
+  background-color: #e7ebea;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: translate(53px, 185px);
+}
+
+.card-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 5px;
+}
+
+.icon {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.black-description {
+  color: black;
+  font-size: 13px;
+}
+
+.icon1 {
+  margin-top: 20px;
+  font-size: 40px;
+}

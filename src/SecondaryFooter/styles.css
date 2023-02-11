@@ -1,0 +1,16 @@
+#secondary-footer {
+  height: 70px;
+  background-color: black;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#secondary-footer p {
+  font-size: 13px;
+  font-weight: bold;
+  color: #747474;
+}

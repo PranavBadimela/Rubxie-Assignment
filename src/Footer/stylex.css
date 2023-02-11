@@ -1,0 +1,78 @@
+#footer {
+  background-color: #f4f8fb;
+  height: 250px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+#footer .footer-content-container {
+  margin-left: 150px;
+  margin-right: 150px;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#footer .about-us {
+  width: 40%;
+}
+
+#footer .menus {
+  width: 10%;
+}
+
+#footer .learn-more {
+  width: 12%;
+}
+
+#footer .address {
+  width: 30%;
+}
+
+#footer p {
+  color: black;
+  font-size: 13px;
+}
+
+#footer h4 {
+  color: black;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+#footer h6 {
+  color: black;
+  font-weight: 400;
+  margin-top: 10px;
+}
+
+#footer .social-media {
+  display: flex;
+  align-items: center;
+}
+
+#footer a {
+  color: black;
+}
+
+#footer .social-icon-container {
+  background-color: #fff;
+  width: 30px;
+  height: 30px;
+  padding: 5px 8px;
+  text-align: center;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  margin-top: 5px;
+  margin-right: 15px;
+  
+}
+
+#footer .social-icon1 {
+  color: #0a66c2;
+}
+
+#footer .social-icon2 {
+  color: #0a66c2;
+}
